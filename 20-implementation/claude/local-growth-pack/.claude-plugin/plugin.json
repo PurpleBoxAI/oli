@@ -1,0 +1,12 @@
+{
+  "name": "local-growth-pack",
+  "version": "0.1.0",
+  "description": "Marketing desk for small local service businesses: lead follow-up, weekly Google Ads review, review replies, monthly owner report and intake script tuning. Drafts only; the owner approves every send and every ad change.",
+  "author": {
+    "name": "PurpleBox"
+  },
+  "homepage": "https://github.com/PurpleBoxAI/oli",
+  "repository": "https://github.com/PurpleBoxAI/oli",
+  "license": "Apache-2.0",
+  "keywords": ["local-business", "marketing", "lead-follow-up", "google-ads", "franchise"]
+}

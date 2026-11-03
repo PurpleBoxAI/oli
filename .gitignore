@@ -1,0 +1,9 @@
+# OS and editor debris
+.DS_Store
+Thumbs.db
+*.lock
+.venv/
+__pycache__/
+
+# Never commit customer-filled material
+Customer-*/
