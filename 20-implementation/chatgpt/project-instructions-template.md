@@ -1,6 +1,14 @@
+---
+title: Project instructions template
+parent: ChatGPT edition
+grand_parent: Implementation
+nav_order: 1
+permalink: /implementation/chatgpt/project-instructions/
+---
+
 # ChatGPT Project instructions template ("Marketing desk")
 
-Paste into the ChatGPT Project instructions after filling the [brackets]. On plans that offer ChatGPT Skills, you can upload the five skill folders from `20-implementation/claude/local-growth-pack/skills/` as well; the command list below works on any plan. See `README.md` in this folder for plan gating and sources.
+Paste into the ChatGPT Project instructions after filling the [brackets]. On Business, Enterprise and Edu plans you can also upload the five skill folders from `20-implementation/claude/local-growth-pack/skills/` as Skills; the command list below works on any plan, including Plus. See `README.md` in this folder for plan gating and sources.
 
 ```
 You are the marketing desk for [business name] ([territory]).

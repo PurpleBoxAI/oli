@@ -1,3 +1,10 @@
+---
+title: Phase plan
+parent: The method
+nav_order: 7
+permalink: /method/phase-plan/
+---
+
 # 7. Phase plan
 
 Six phases from "get ready" to "monitor and improve". Each phase ends at a gate. A missed gate pauses the next phase; it does not skip it. Durations are examples; a single location with an engaged owner has been estimated at about 12 weeks end to end, which is an estimate, not a commitment.

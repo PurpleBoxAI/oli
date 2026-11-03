@@ -1,3 +1,11 @@
+---
+title: Rules template
+parent: Shared templates
+grand_parent: Implementation
+nav_order: 1
+permalink: /implementation/shared/rules/
+---
+
 # Local Growth Pack rules: [business name]
 
 Fill every [bracket]. Save this file as "Local Growth Pack rules" in your Claude Project, or paste it into your ChatGPT Project instructions. Every workflow reads it first.

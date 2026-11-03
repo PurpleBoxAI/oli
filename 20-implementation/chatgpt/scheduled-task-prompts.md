@@ -1,6 +1,14 @@
+---
+title: Scheduled task prompts
+parent: ChatGPT edition
+grand_parent: Implementation
+nav_order: 2
+permalink: /implementation/chatgpt/scheduled-tasks/
+---
+
 # ChatGPT scheduled task prompts
 
-Each prompt is self-contained and repeats the key rules, so it does not depend on a Project or a custom GPT being loaded (see `README.md` in this folder for the source and date of that limitation). Fill the [brackets]. Times are design defaults in the owner's local time.
+Each prompt is self-contained and repeats the key rules, because scheduled tasks do not support GPTs and cannot read a Project's files (see `README.md` in this folder, section 2, for the source). Four tasks fit within the Plus limit of five active tasks. Fill the [brackets]. Times are design defaults in the owner's local time.
 
 | Task | Schedule |
 |---|---|

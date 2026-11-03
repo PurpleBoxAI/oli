@@ -1,3 +1,10 @@
+---
+title: Metrics
+parent: The method
+nav_order: 6
+permalink: /method/metrics/
+---
+
 # 6. Metrics
 
 Every number in a report comes from a named record. If the record cannot produce it, the report says "no data" and names the record.

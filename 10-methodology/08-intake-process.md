@@ -1,3 +1,10 @@
+---
+title: Intake process
+parent: The method
+nav_order: 8
+permalink: /method/intake-process/
+---
+
 # 8. Intake process
 
 How an inquiry call is handled when the office does not pick up. The script that implements this is `20-implementation/shared/intake-call-script-template.md`.

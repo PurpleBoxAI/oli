@@ -1,3 +1,10 @@
+---
+title: Overview and outcomes
+parent: The method
+nav_order: 1
+permalink: /method/overview-and-outcomes/
+---
+
 # 1. Overview and outcomes
 
 ## Who this is for

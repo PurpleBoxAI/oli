@@ -1,3 +1,10 @@
+---
+title: Guardrails
+parent: The method
+nav_order: 5
+permalink: /method/guardrails/
+---
+
 # 5. Guardrails
 
 These rules apply to every workflow, every stack and every draft. Each implementation guide copies them without change into the assistant's rules.

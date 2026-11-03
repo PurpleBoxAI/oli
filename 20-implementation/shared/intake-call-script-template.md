@@ -1,3 +1,11 @@
+---
+title: Intake call script template
+parent: Shared templates
+grand_parent: Implementation
+nav_order: 2
+permalink: /implementation/shared/intake-script/
+---
+
 # Intake call script template (AI receptionist)
 
 Fill the [brackets] per business. The owner approves the final wording; a franchise brand also approves brand language. The process behind this script is `10-methodology/08-intake-process.md`.

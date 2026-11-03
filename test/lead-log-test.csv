@@ -1,0 +1,4 @@
+Received,Source,Customer name,Phone,Email,ZIP,Service type,Details,Start date,Schedule,Status,First callback,Next action,Due,Notes
+2026-11-01 09:14,Google Ads,Test Customer One,555-0101,test1@example.com,30009,Standard service,1 item,2026-11-10,Weekdays mornings,New,,,,"Asked whether weekend slots exist"
+2026-11-02 16:40,Maps,Test Customer Two,555-0102,test2@example.com,30022,Extended service,2 items,2026-11-15,Weekends,No answer,2026-11-02 17:05,Call back,2026-11-05,"Left voicemail"
+2026-10-28 11:02,Referral,Test Customer Three,555-0103,test3@example.com,30004,Standard service,1 item,ASAP,Flexible,Consult booked,2026-10-28 12:30,Consult,2026-11-04,"Asked about pricing; told owner will cover on call"

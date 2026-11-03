@@ -1,3 +1,10 @@
+---
+title: Data model
+parent: The method
+nav_order: 4
+permalink: /method/data-model/
+---
+
 # 4. Data model: the Lead Log
 
 One spreadsheet, one row per inquiry. Every workflow reads it and the owner (or the call answering service) writes it. It is the single record of truth for leads and the source of every metric.

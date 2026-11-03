@@ -1,3 +1,10 @@
+---
+title: Claude edition
+parent: Implementation
+nav_order: 1
+permalink: /implementation/claude/
+---
+
 # Claude edition: setup guide
 
 Status: draft, not yet tested end to end with a real business. Verify every step marked "verify" in your own account before relying on it.

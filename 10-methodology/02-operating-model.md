@@ -1,3 +1,10 @@
+---
+title: Operating model
+parent: The method
+nav_order: 2
+permalink: /method/operating-model/
+---
+
 # 2. Operating model: five workflows
 
 The business runs five recurring workflows. Each one reads from a named record, produces drafts or recommendations, and ends with an owner decision. The cadence below is a design default; adjust it to your volume.

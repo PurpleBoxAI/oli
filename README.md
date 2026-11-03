@@ -8,6 +8,10 @@ A free, open methodology for a small local service business (a franchise locatio
 
 - `10-methodology/`: the method itself, with no technology named. Read this first. It describes the five recurring workflows, the data you keep, the guardrails, the metrics and a phase plan from "get ready" to "monitor and improve".
 - `20-implementation/`: how to run the method on a specific AI stack. `claude/` holds a Claude plugin and setup guide. `chatgpt/` holds ChatGPT Project instructions and scheduled task prompts. `shared/` holds the templates every stack uses (rules file, intake call script, Lead Log).
+- `30-delivery/`: pilot brief template, kick-off agenda, discovery questions and Phase 0 workbook for starting with a real business.
+- `dist/`: the packaged Claude plugin. `test/`: fictional test data for the verification checklists.
+
+Read it as a website: https://purpleboxai.github.io/oli/
 
 ## Ways to use it
 

@@ -1,3 +1,10 @@
+---
+title: Implementation
+nav_order: 3
+has_children: true
+permalink: /implementation/
+---
+
 # Level 2: Implementation guides
 
 Level 1 (`10-methodology/`) says what to do. This folder says how to do it on a specific AI stack, in the owner's own accounts.

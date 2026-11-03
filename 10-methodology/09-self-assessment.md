@@ -1,3 +1,10 @@
+---
+title: Self-assessment
+parent: The method
+nav_order: 9
+permalink: /method/self-assessment/
+---
+
 # 9. Self-assessment
 
 Answer yes or no. Count the yes answers at the end.

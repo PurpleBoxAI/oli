@@ -1,3 +1,9 @@
+---
+title: License
+nav_order: 5
+permalink: /license/
+---
+
 # License for documents and templates
 
 Status: DRAFT, pending PurpleBox counsel review (2026-11-03). Not yet in force.

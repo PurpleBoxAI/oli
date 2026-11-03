@@ -1,0 +1,24 @@
+title: Local Growth Pack
+description: A free method and AI-assistant kit for local service businesses. Google visibility, lead follow-up, monthly reporting. Runs in your own accounts.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "Repository on GitHub":
+    - https://github.com/PurpleBoxAI/oli
+footer_content: "Local Growth Pack by PurpleBox. Documents and templates: CC BY 4.0. Plugin code: Apache 2.0. Both pending final legal review. Draft, not yet tested with a real business."
+exclude:
+  - README.md
+  - LICENSE-CODE.md
+  - 20-implementation/claude/local-growth-pack/
+  - test/
+  - CONTRIBUTING.md
+  - dist/
+  - scripts/
+  - .github/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

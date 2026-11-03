@@ -1,3 +1,11 @@
+---
+title: Shared templates
+parent: Implementation
+nav_order: 3
+has_children: true
+permalink: /implementation/shared/
+---
+
 # Shared templates
 
 Used by every edition. Copy, fill the [brackets], keep the originals unchanged.

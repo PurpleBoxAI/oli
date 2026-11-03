@@ -1,3 +1,10 @@
+---
+title: The method
+nav_order: 2
+has_children: true
+permalink: /method/
+---
+
 # Level 1: The method
 
 This folder describes how a small local service business runs Google visibility, lead follow-up and monthly reporting with the help of an AI assistant. It names no product. Everything here works with any capable AI assistant that can read a spreadsheet, draft an email and set a reminder. The stack-specific setup lives in `20-implementation/`.

@@ -1,0 +1,11 @@
+name: Content check
+on:
+  push:
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run content checks
+        run: bash scripts/check-content.sh
